@@ -243,6 +243,7 @@
     <Content Include="wp-content\themes\plain\assets\fonts\lovelo\lovelo_black.woff" />
     <Content Include="wp-content\themes\plain\assets\fonts\lovelo\lovelo_blackd41d.eot" />
     <Content Include="wp-content\themes\plain\assets\fonts\plain\fonts\plain.eot" />
+    <Content Include="wp-content\uploads\2015\04\facts-bg.jpg" />
     <Content Include="wp-includes\fonts\dashicons.eot" />
   </ItemGroup>
   <ItemGroup>

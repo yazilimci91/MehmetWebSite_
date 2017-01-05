@@ -6,6 +6,7 @@
 
 
     <!--content -->
+
     <div id="content" class="site-content full-screen-layout">
         <div class="site-row">
 
@@ -30,7 +31,7 @@
                                             <div class="carousel-caption">
                                                 <h2>WE ARE WEB ARTISTIANS</h2>
                                                 <h3>I should be incapable of drawing a single stroke at the present moment</h3>
-                                                <a class="btn btn-lg btn-common" href="http://wingthemes.com/" target="_blank"><i class="fa fa-check"></i>Get Started</a>
+                                                <a class="btn btn-lg btn-common" href="http://bilsesoft.com/" target="_blank"><i class="fa fa-check"></i>Get Started</a>
                                             </div>
                                         </div>
 
@@ -379,14 +380,15 @@
                 </div>
             </div>
             <!-- Row Backgrounds -->
-            <div class="vc_row wpb_row vc_row-fluid wt_main_row wt_vc_row_734 wt_row_default">
+
+            <div class="vc_row wpb_row vc_row-fluid wt_main_row wt_vc_row_734 wt_row_default"  style ="background-image:url('wp-content/uploads/2015/04/bg-3-compressed.jpg')">
                 <div class="container">
                     <div class="row">
                         <div class="wpb_column vc_column_container vc_col-md-12">
                             <div class="vc_column-inner ">
                                 <div class="wpb_wrapper">
                                     <div class="plain-animation wow fadeInUpQuick">
-                                        <h1 class="section-title text-center " style="font-size: 50px; color: #ffffff">Our Work Progress</h1>
+                                        <h1 class="section-title text-center" style="font-size: 50px; color: #ffffff">Our Work Progress</h1>
                                     </div>
 
                                     <div class="our-progress text-center row">
@@ -434,8 +436,8 @@
                 </div>
             </div>
             <!-- Row Backgrounds -->
-            <div class="upb_content_video" data-controls-color="" data-controls="off" data-viewport-video="true" data-ultimate-video="http://plain.wingthemes.com/wp-content/uploads/2015/02/progress-bg.mp4" data-ultimate-video2="http://plain.wingthemes.com/wp-content/uploads/2015/02/progress-bg.webm" data-ultimate-video-muted="" data-ultimate-video-loop="loop" data-ultimate-video-poster="http://plain.wingthemes.com/wp-content/uploads/2015/04/progress-bg-compressed.jpg" data-ultimate-video-autoplay="autoplay" data-bg-override="" data-upb-overlay-color="rgba(0,0,0,0.4)" data-upb-bg-animation="" data-fadeout="" data-fadeout-percentage="50" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-rtl="false" data-img-parallax-mobile-disable="false" data-custom-vc-row="" data-overlay="true" data-overlay-color="rgba(0,0,0,0.4)" data-overlay-pattern="" data-overlay-pattern-opacity="0" data-overlay-pattern-size="" data-overlay-pattern-attachment="" data-video_fixer="true"></div>
-            <div class="vc_row wpb_row vc_row-fluid wt_main_row vc_custom_1427731786404 vc_row-has-fill wt_vc_row_517 wt_row_default">
+            
+                <div class="vc_row wpb_row vc_row-fluid wt_main_row vc_custom_1427731786404 vc_row-has-fill wt_vc_row_517 wt_row_default">
                 <div class="container">
                     <div class="row">
                         <div class="wpb_column vc_column_container vc_col-md-12">
@@ -532,7 +534,7 @@
                 </div>
             </div>
             <!-- Row Backgrounds -->
-            <div class="vc_row wpb_row vc_row-fluid wt_main_row wt_vc_row_503 wt_row_default">
+            <div class="vc_row wpb_row vc_row-fluid wt_main_row wt_vc_row_503 wt_row_default" style ="background-image:url('wp-content/uploads/2015/04/facts-bg.jpg')">
                 <div class="container">
                     <div class="row">
                         <div class="wpb_column vc_column_container vc_col-md-12">
@@ -599,8 +601,7 @@
                 </div>
             </div>
             <!-- Row Backgrounds -->
-            <div class="upb_bg_img" data-ultimate-bg="url(http://plain.wingthemes.com/wp-content/uploads/2015/02/facts-bg.jpg)" data-image-id="79" data-ultimate-bg-style="vcpb-vz-jquery" data-bg-img-repeat="repeat-y" data-bg-img-size="" data-bg-img-position="" data-parallx_sense="" data-bg-override="" data-bg_img_attach="" data-upb-overlay-color="" data-upb-bg-animation="" data-fadeout="" data-bg-animation="left-animation" data-bg-animation-type="h" data-animation-repeat="" data-fadeout-percentage="50" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-overlay="false" data-overlay-color="" data-overlay-pattern="" data-overlay-pattern-opacity="" data-overlay-pattern-size=""></div>
-            <div class="vc_row wpb_row vc_row-fluid wt_main_row wt_vc_row_713 wt_row_default">
+               <div class="vc_row wpb_row vc_row-fluid wt_main_row wt_vc_row_713 wt_row_default">
                 <div class="container">
                     <div class="row">
                         <div class="wpb_column vc_column_container vc_col-md-12">
@@ -679,7 +680,7 @@
                 </div>
             </div>
             <!-- Row Backgrounds -->
-            <div class="vc_row wpb_row vc_row-fluid wt_main_row plain-bg-primary wt_vc_row_636 wt_row_default">
+            <div class="vc_row wpb_row vc_row-fluid wt_main_row plain-bg-primary wt_vc_row_636 wt_row_default" style ="background-image:url('wp-content/uploads/2015/04/bg-02-compressed.jpg')">
                 <div class="container">
                     <div class="row">
                         <div class="wpb_column vc_column_container vc_col-md-12">
@@ -761,8 +762,7 @@
                 </div>
             </div>
             <!-- Row Backgrounds -->
-            <div class="upb_bg_img" data-ultimate-bg="url(http://plain.wingthemes.com/wp-content/uploads/2015/02/testimonial-bg.jpg)" data-image-id="105" data-ultimate-bg-style="" data-bg-img-repeat="repeat-y" data-bg-img-size="" data-bg-img-position="" data-parallx_sense="" data-bg-override="" data-bg_img_attach="" data-upb-overlay-color="rgba(231,76,60,0.2)" data-upb-bg-animation="" data-fadeout="off" data-bg-animation="left-animation" data-bg-animation-type="h" data-animation-repeat="" data-fadeout-percentage="50" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="false" data-rtl="false" data-custom-vc-row="" data-overlay="true" data-overlay-color="rgba(231,76,60,0.2)" data-overlay-pattern="http://plain.wingthemes.com/wp-content/plugins/parallax_video_backgrounds_vc/assets/images/patterns/10.png" data-overlay-pattern-opacity="0" data-overlay-pattern-size="" data-overlay-pattern-attachment=""></div>
-            <div class="vc_row wpb_row vc_row-fluid wt_main_row wt_vc_row_96 wt_row_default">
+                  <div class="vc_row wpb_row vc_row-fluid wt_main_row wt_vc_row_96 wt_row_default">
                 <div class="container">
                     <div class="row">
                         <div class="wpb_column vc_column_container vc_col-md-12">
@@ -998,4 +998,6 @@
 
     </div>
     <!-- #content -->
+
+
 </asp:Content>
