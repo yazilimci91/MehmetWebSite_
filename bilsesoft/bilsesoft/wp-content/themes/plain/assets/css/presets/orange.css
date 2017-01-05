@@ -1,0 +1,205 @@
+/**
+ * Default color for plain
+ */
+
+ /* ==========================================================================
+    Color
+    ========================================================================== */
+
+
+.wpb_theme_paignation li > a,
+.search-box i,
+.navbar-plain .navbar-nav > li > a:hover,
+.navbar-plain .navbar-nav > li.current-menu-ancestor > a,
+.navbar-plain .navbar-nav > .active > a,
+.navbar-plain .navbar-nav > li.open > a,
+.navbar-plain .navbar-nav > .active > a:hover,
+.navbar-plain .navbar-nav > .active > a:focus,
+.navbar-plain .navbar-nav > .open > a:hover,
+.service-item:hover i,
+.service-item:hover h2,
+.btn-common.active,
+.other-service-item h3,
+.icon-effect,
+#testimonial-carousel .carousel-control,
+.blog-item-text h3,
+.blog-item-text h3:hover,
+.blog-item-text .blog-item-info a:hover,
+.why-choos-icon i,
+#testimonial-carousel .item blockquote small,
+.plain-awesome-tab > .wpb_tab h1,
+.plain-awesome-tab > .wpb_tab h2,
+.plain-awesome-tab > .wpb_tab h3,
+.plain-awesome-tab > .wpb_tab h4,
+.plain-awesome-tab > .wpb_tab h5,
+.plain-awesome-tab > .wpb_tab h6,
+.skill-wrapper .progress .percent,
+.pricing-table-x .plan .price,
+.pricing-table-x .plan .period,
+.service-inner:hover h3,
+.light li a,
+.service-inner:hover i,
+a:hover,
+a:active,
+a:focus,
+.navbar-plain .dropdown .dropdown-menu > li > a:hover,
+.navbar-plain .dropdown .dropdown-menu > li > a .active,
+.post-comments .comment-list .comment-detailes .comment-meta .date,
+.navbar-plain .dropdown .dropdown-menu > li.active > a,
+.navbar-plain .dropdown .dropdown-menu > li.current-menu-parent > a,
+.widget .content h3 a,
+.the-company h2,
+.plain-vc-btn.btn-border,
+#secondary ul li a:hover,
+.woocommerce .star-rating span,
+.woocommerce div.product p.price, 
+.woocommerce div.product span.price,
+.woocommerce .woocommerce-message:before,
+.woocommerce .woocommerce-info:before,
+a {
+  color: #ff6600;
+}
+
+ 
+ /* ==========================================================================
+    Background
+    ========================================================================== */
+
+.wpb_theme_paignation li.active>span,
+.wpb_theme_paignation li > a:hover,
+#footer-widgets .search-box .plain-search-btn,
+.btn-common,
+input[type="submit"],
+.btn-common:hover,
+.btn-common:focus,
+.btn-common:active,
+input[type="submit"]:hover,
+input[type="submit"]:focus,
+input[type="submit"]:active,
+.portfolio-items figure figcaption:hover,
+.other-service-item i,
+.clients-scroller .owl-pagination .owl-page.active span,
+.blog-item-img .blog-category,
+.blog-item-img .blog-category:hover,
+.skill-wrapper .progress .progress-bar,
+.tab-menu .list-group > a.active,
+.contact-info-style-one.contact-info-wrapper .contact-item-wrapper i,
+.contact-info-style-two.contact-info-wrapper,
+.service-item:hover .icon i,
+.pricing-table-1 .table-header,
+.navbar-plain .navbar-nav > li a:hover::before,
+.navbar-plain .navbar-nav > li.active a::before,
+.accordion_default .panel-default .panel-heading a,
+#tabs .tabs-style-2 .nav-tabs li.active a,
+#tabs .tabs-style-2 .nav-tabs li.active a:hover,
+#tabs .tabs-style-2 .nav-tabs li.active a:focus,
+article.post .wpb_sticky_post,
+#tabs .tabs-style-2 .nav-tabs li a:hover,
+.flat li a i,
+.navbar-plain .navbar-nav > li.open > a::before,
+.widget_latest_tweets_widget .tweet-text i,
+.scroll-top:hover,
+.navbar-plain .navbar-nav > li > a:before,
+.navbar-plain .navbar-toggle:hover,
+.navbar-plain .navbar-toggle .icon-bar,
+.fact-block .icon-wrapper .fa-code,
+footer#footer ul li.tweet .fa-twitter,
+footer#footer .tags li a:hover,
+.service-item:hover .icon-wrapper::before,
+.service-item:hover .icon-wrapper::after,
+.tag .tags li a:hover,
+.navbar-plain .navbar-nav > .active > a:focus::before,
+article.post .wpb_sticky_post,
+.site-row > .vc_row.plain-bg-primary-deep,
+.panel-transparent .panel-heading a:hover,
+.woocommerce span.onsale,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+.woocommerce a.button:hover,
+.woocommerce div.product form.cart .button,
+.woocommerce #review_form #respond .form-submit input#submit:hover,
+.woocommerce table.shop_table.cart thead,
+.woocommerce .cart .button, 
+.woocommerce .cart input.button,
+.woocommerce #respond input#submit.alt, 
+.woocommerce a.button.alt, 
+.woocommerce button.button.alt, 
+.woocommerce input.button.alt,
+.woocommerce #respond input#submit.alt:hover, 
+.woocommerce a.button.alt:hover, 
+.woocommerce button.button.alt:hover, 
+.woocommerce input.button.alt:hover,
+.woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover,
+.woocommerce .widget_price_filter .price_slider_wrapper .ui-widget-content,
+.wt_bg_default {
+  background: #ff6600;
+}
+
+@media (max-width: 767px) {
+  .navbar-plain .navbar-nav .dropdown .dropdown-menu > li > a:hover{
+    background: #ff6600;
+  }
+}
+
+ 
+ /* ==========================================================================
+    Border Color
+    ========================================================================== */
+ 
+ 
+ 
+.wpb_theme_paignation li.active>span,
+.wpb_theme_paignation li > a:hover,
+.btn-common,
+input[type="submit"],
+.section-title:before,
+.service-item:hover i,
+.btn-common.active,
+#notice .notice-content,
+.clients-scroller .owl-pagination .owl-page span,
+#footer-widgets .widget-title:before,
+#team-block-2 .team-member:hover,
+#tabs .tabs-style-2 .nav-tabs li.active a,
+#tabs .tabs-style-2 .nav-tabs li.active a:hover,
+#tabs .tabs-style-2 .nav-tabs li.active a:focus,
+#tabs .tabs-style-2 .nav-tabs li a:hover,
+#tabs .tabs-style-2 .nav-tabs,
+article.post .reading:after,
+.flat li a i,
+.scroll-top:hover,
+.small-title:before,
+.navbar-plain .dropdown .dropdown-menu,
+.navbar-plain .navbar-toggle,
+.comment-area input[type="text"],
+.comment-area textarea,
+.widget-area .widget-title:before,
+#project .social-links a i,
+.service-item:hover .icon,
+.form-group .form-control:focus,
+.widget-area .search-box .input-group .form-control:focus,
+.plain-vc-btn.btn-border,
+.woocommerce a.button,
+.woocommerce #review_form #respond .form-submit input#submit:hover,
+.woocommerce .woocommerce-message,
+.woocommerce .cart .button, 
+.woocommerce .cart input.button,
+.woocommerce table.cart td.actions .coupon input[type="submit"], 
+.checkout_coupon input[type="submit"],
+.woocommerce .woocommerce-info,
+.woocommerce a.added_to_cart,
+.woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover {
+  border-color: #ff6600;
+}
+.woocommerce span.onsale:before {
+  border-color: transparent #ff6600;
+}
+
+
+/* ==========================================================================
+   RGB background
+   ========================================================================== */
+
+.plain-bg-primary .upb_row_bg .upb_bg_overlay,
+.page-header .page-header-inner:before{
+  background-color: #ff6600!important;
+  opacity: 0.2;
+}
