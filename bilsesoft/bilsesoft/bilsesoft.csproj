@@ -230,6 +230,7 @@
     <Content Include="wp-content\plugins\revslider\rs-plugin\font\revicons90c6.eot" />
     <Content Include="wp-content\plugins\revslider\rs-plugin\font\revicons90c6.ttf" />
     <Content Include="wp-content\plugins\revslider\rs-plugin\font\revicons90c6.woff" />
+    <Content Include="wp-content\themes\plain\assets\css\presets\brown.css" />
     <Content Include="wp-content\themes\plain\assets\fonts\fontawesome-webfont78ce.eot" />
     <Content Include="wp-content\themes\plain\assets\fonts\fontawesome-webfont78ce.ttf" />
     <Content Include="wp-content\themes\plain\assets\fonts\fontawesome-webfont78ce.woff" />

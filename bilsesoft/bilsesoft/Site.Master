@@ -790,7 +790,7 @@
     <!-- #page -->
 
     <div class="wpb_switcher_area">
-        <h4>COLOR STYLE</h4>
+        <h4>RENK DEĞİŞTİR</h4>
         <ul id="switcher">
             <li><a style="background: #e74c3c;" href="#" rel="wp-content/themes/plain/assets/css/presets/default.css">Default</a></li>
             <li><a style="background: #00d3f9;" href="#" rel="wp-content/themes/plain/assets/css/presets/light-blue.css">Light Blue</a></li>
@@ -798,9 +798,10 @@
             <li><a style="background: #998675;" href="#" rel="wp-content/themes/plain/assets/css/presets/coffee.css">Coffee</a></li>
             <li><a style="background: #99cc33;" href="#" rel="wp-content/themes/plain/assets/css/presets/green.css">Green</a></li>
             <li><a style="background: #ff6600;" href="#" rel="wp-content/themes/plain/assets/css/presets/orange.css">Orange</a></li>
+            <li><a style="background: #d4232a;" href="#" rel="wp-content/themes/plain/assets/css/presets/brown.css">Brown</a></li>
         </ul>
         <button class="switcher_btn"><i class="fa fa-cog fa-spin"></i></button>
-        <p class="wpb_color_switcher_message">+ unlimited colors with colorpicker.</p>
+        
     </div>
 
     <script>
